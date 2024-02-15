@@ -1,9 +1,12 @@
 ### Hi there 👋
-    ## I am  Enthusiast Java Developer 
+
+## I am  Enthusiast Java Developer 
+
 - 🔭 I’m currently working on Java Development
 - 🌱 I’m currently learning Java
 - I've completed PG from Dr.B.A.M.U.Ch.SambhajiNagar in Nanotechnology
-- - 📫 How to reach me: rushikeshhere@gmail.com
+- 📫 How to reach me: rushikeshhere@gmail.com
+- 💬 Ask me about : Spring , SpringBoot , Microservices.
 
 <!--
 **hererushikesh/hererushikesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
